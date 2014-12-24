@@ -1,0 +1,126 @@
+html, body {
+  height: 100%;
+  overflow: hidden;
+}
+body {
+  background: #FE734C;
+  font-family: 'BrixSansExtraLight', sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #E7562E;
+  padding: 80px 0 60px;
+  min-height: 353px;
+  box-sizing: border-box;
+}
+h1 {
+  margin: 0 0 35px;
+  padding: 0 30px;
+}
+h1 object {
+  max-width: 338px;
+}
+h2 {
+  margin: 0;
+  font-size: 40px;
+  color: #fff;
+  letter-spacing: -1px;
+  animation-delay: 1.4s;
+  -webkit-animation-delay: 1.4s;
+  -moz-animation-delay: 1.4s;
+  -o-animation-delay: 1.4s;
+}
+#action {
+  margin-top: -25px;
+
+  animation-delay: 1.6s;
+  -webkit-animation-delay: 1.6s;
+  -moz-animation-delay: 1.6s;
+  -o-animation-delay: 1.6s;
+}
+.kickstarter {
+  background: #fff;
+  color: #65AF10;
+  display: inline-block;
+  text-decoration: none;
+  font-family: 'BrixSansBold', sans-serif;
+  font-size: 16px;
+  text-transform: uppercase;
+  padding: 15px 25px;
+  border-radius: 8px;
+  letter-spacing: 1px;
+  line-height: 16px;
+  position: relative;
+  transition: all 0.2s;
+  -webkit-tap-highlight-color: transparent;
+}
+.kickstarter em {
+  font-family: 'BrixSansRegular-Italic', sans-serif;
+  text-transform: lowercase;
+}
+.kickstarter .arrow {
+  margin-left: 5px;
+  font-weight: bold;
+  font-size: 26px;
+  vertical-align: -1px;
+  display: inline-block;
+}
+.kickstarter:hover {
+  background: #E4FBC9;
+}
+.kickstarter:hover .arrow {
+  -webkit-animation: bounceRight 1s infinite;
+  -moz-animation: bounceRight 1s infinite;
+  -o-animation: bounceRight 1s infinite;
+  animation: bounceRight 1s infinite;
+}
+.kickstarter:active {
+  background: #508E0A;
+  color: #fff;
+}
+#demo {
+  padding-top: 60px;
+}
+#demo object {
+  max-width: 914px;
+  margin: 0 20px;
+
+  animation-delay: 1.8s;
+  -webkit-animation-delay: 1.8s;
+  -moz-animation-delay: 1.8s;
+  -o-animation-delay: 1.8s;
+}
+#contact {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  font-size: 22px;
+}
+#contact a {
+  text-decoration: none;
+  color: #fff;
+  opacity: 0.4;
+  transition: opacity 0.2s;
+  margin: 0 5px;
+}
+#contact a:hover {
+  opacity: 0.7;
+}
+
+@media screen and (max-width: 600px) {
+  header {
+    padding-top: 20px;
+  }
+  h1 {
+    margin-bottom: 20px;
+  }
+  h2 {
+    font-size: 30px;
+  }
+  #demo {
+    padding-top: 40px;
+  }
+}
