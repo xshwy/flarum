@@ -33,9 +33,18 @@ h2 {
   -moz-animation-delay: 1.4s;
   -o-animation-delay: 1.4s;
 }
+p {
+  color: #fff;
+  animation-delay: 1.5s;
+  -webkit-animation-delay: 1.5s;
+  -moz-animation-delay: 1.5s;
+  -o-animation-delay: 1.5s;
+}
+p a {
+  color: #fff;
+}
 #action {
   margin-top: -25px;
-
   animation-delay: 1.6s;
   -webkit-animation-delay: 1.6s;
   -moz-animation-delay: 1.6s;
