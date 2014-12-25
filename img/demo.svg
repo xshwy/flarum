@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 914 625" preserveAspectRatio="xMinYMin meet" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1 (8751) - http://www.bohemiancoding.com/sketch -->
+    <title>Demo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="100" width="198" height="403"></rect>
+        <rect id="path-3" x="205" y="42" width="702" height="571"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-5" sketch:type="MSArtboardGroup" transform="translate(-263.000000, -449.000000)">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(263.000000, 449.000000)">
+                <g id="Demo">
+                    <g id="Browser-Chrome" sketch:type="MSShapeGroup">
+                        <rect id="Shadow" opacity="0.1" fill="#000000" x="0" y="0" width="914" height="625" rx="14"></rect>
+                        <path d="M13.4127497,2.00063381 C9.87108584,1.99787646 7,4.85575516 7,8.40596216 L7,606.589679 C7,610.130002 9.86854985,613 13.4127497,613 L900.58725,613 C904.128914,613 907,610.12596 907,606.584347 L907,9.11198686 C907,5.56871976 904.13145,2.69410095 900.58725,2.69134162 L13.4127497,2.00063381 Z" id="Border" fill="#FFFFFF"></path>
+                        <path d="M12.6008816,2 C9.50760009,2 7,4.50217915 7,7.60394637 L7,42 L907,42 L907,7.60394637 C907,4.50897225 904.497432,2 901.399118,2 L12.6008816,2 Z" id="Toolbar" fill="#D4D4D4"></path>
+                        <circle id="Red" fill="#E96E4C" cx="25" cy="22" r="5"></circle>
+                        <path d="M40,27 C42.7614237,27 45,24.7614237 45,22 C45,19.2385763 42.7614237,17 40,17 C37.2385763,17 35,19.2385763 35,22 C35,24.7614237 37.2385763,27 40,27 Z" id="Yellow" fill="#E6AA34"></path>
+                        <circle id="Green" fill="#85C33D" cx="57" cy="22" r="5"></circle>
+                        <rect id="Search" opacity="0.85" fill="#FFFFFF" x="75" y="12" width="820" height="18" rx="4"></rect>
+                    </g>
+                    <g id="Sidebar" transform="translate(7.000000, 42.000000)">
+                        <rect id="Background-2" fill="#DEE6ED" sketch:type="MSShapeGroup" x="0" y="0" width="198" height="571"></rect>
+                        <path d="M40.342942,22 L155.648485,22" id="Line" stroke="#74899E" stroke-width="10" stroke-linecap="round" stroke-dasharray="30,20,80,25" sketch:type="MSShapeGroup"></path>
+                        <rect id="Rectangle-5" stroke="#C7D4E1" stroke-width="2" stroke-linecap="round" sketch:type="MSShapeGroup" x="15" y="45" width="170" height="32" rx="18.4272115"></rect>
+                        <rect id="Rectangle-9" fill="#C7D4E1" sketch:type="MSShapeGroup" x="103" y="525" width="78" height="32" rx="6.40946487"></rect>
+                        <rect id="Rectangle-10" fill="#C7D4E1" sketch:type="MSShapeGroup" x="15" y="525" width="78" height="32" rx="6.40946487"></rect>
+                        <mask id="mask-2" sketch:name="Sidebar Area Mask" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Sidebar-Area-Mask" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                        <g id="Discussions" mask="url(#mask-2)" sketch:type="MSShapeGroup">
+                            <g transform="translate(15.000000, 100.000000)">
+                                <path d="M32.35,88.5 L67,88.5" id="Line-2" stroke="#74899F" stroke-width="3" stroke-linecap="round" fill="none"></path>
+                                <rect id="Rectangle-6" stroke="none" fill="#C7D4E1" fill-rule="evenodd" x="0" y="0" width="170" height="32" rx="6.40946487"></rect>
+                                <rect id="Rectangle-7" stroke="none" fill="#74899E" fill-rule="evenodd" x="0" y="42" width="170" height="32" rx="6.40946487"></rect>
+                                <circle id="Oval-4" stroke="#74899F" stroke-width="0.830258303" stroke-linecap="round" fill="#74899E" fill-rule="evenodd" cx="14" cy="90" r="4"></circle>
+                                <path d="M32.3565217,57.5 L114,57.5" id="Line-4" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-dasharray="20,8,120,120" fill="none"></path>
+                                <circle id="Oval-6" stroke="none" fill="#FFFFFF" fill-rule="evenodd" cx="14" cy="57" r="4"></circle>
+                                <path d="M32.3478261,121.5 L80,121.5" id="Line-3" stroke="#74899F" stroke-width="3" stroke-linecap="round" fill="none"></path>
+                                <path d="M32.3533333,190.5 L85,190.5" id="Line-6" stroke="#74899F" stroke-width="3" stroke-linecap="round" fill="none"></path>
+                                <path d="M32.3532609,209.5 L96.6467391,209.5" id="Line-7" stroke="#74899F" stroke-width="3" stroke-linecap="round" fill="none"></path>
+                                <path d="M32.352459,233.5 L75,233.5" id="Line-8" stroke="#74899F" stroke-width="3" stroke-linecap="round" fill="none"></path>
+                                <path d="M32.3589744,169.5 L60,169.5" id="Line-5" stroke="#8295A9" stroke-width="3" stroke-linecap="round" fill="none"></path>
+                                <path d="M32.3482143,300.5 L110,300.5" id="Line-12" stroke="#74899F" stroke-width="3" stroke-linecap="round" fill="none"></path>
+                                <path d="M32.3532609,322.5 L96.6467391,322.5" id="Line-11" stroke="#74899F" stroke-width="3" stroke-linecap="round" fill="none"></path>
+                                <path d="M32.3636364,282.5 L71.2727273,282.5" id="Line-9" stroke="#8295A9" stroke-width="3" stroke-linecap="round" fill="none"></path>
+                                <circle id="Oval-5" stroke="#74899F" stroke-width="0.830258303" stroke-linecap="round" fill="#74899E" fill-rule="evenodd" cx="14" cy="120" r="4"></circle>
+
+                                <!-- animate the discussion list sidebar going away and appearing -->
+                                <animateTransform repeatCount="indefinite" attributeName="transform" type="translate" dur="20s" fill="freeze" calcMode="spline"
+                                    values="15 100; 15 100; -85 100; -85 100; 15 100"
+                                    keySplines="0.2 0.5 0.2 1; 0.2 0.5 0.2 1; 0.2 0.5 0.2 1; 0.2 0.5 0.2 1"
+                                    keyTimes="0; 0.25; 0.3; 0.95; 1"
+                                    />
+                                <animate repeatCount="indefinite" attributeType="CSS" attributeName="opacity" dur="20s" fill="freeze"
+                                    values="1; 1; 0; 0; 1; 1"
+                                    keyTimes="0; 0.25; 0.27; 0.95; 0.97; 1" />
+                            </g>
+                        </g>
+                        <g id="Discussion" mask="url(#mask-2)">
+                            <g transform="translate(114.000000, 100.000000)" opacity="0">
+                                <rect id="Rectangle-6" stroke="none" fill="#C7D4E1" fill-rule="evenodd" sketch:type="MSShapeGroup" x="0" y="0" width="170" height="32" rx="6.40946487"></rect>
+                                <rect id="Rectangle-7" stroke="none" fill="#C7D4E1" fill-rule="evenodd" sketch:type="MSShapeGroup" x="0" y="41" width="170" height="32" rx="6.40946487"></rect>
+                                <path d="M102.677036,104.5 L145,104.5" id="Line-9" stroke="#C9D6E2" stroke-width="3" stroke-linecap="round" stroke-dasharray="30,10,32,20" fill="none" sketch:type="MSShapeGroup"></path>
+                                <path d="M118.672147,402.5 L145,402.5" id="Line-9" stroke="#C9D6E2" stroke-width="3" stroke-linecap="round" fill="none" sketch:type="MSShapeGroup"></path>
+                                <path d="M163,103.347826 L163,150.652174" id="Top" stroke="#C7D4E1" stroke-width="2" stroke-linecap="round" fill="none" sketch:type="MSShapeGroup">
+
+                                    <!-- animate the top line of the scrollbar going down -->
+                                    <animate repeatCount="indefinite" attributeName="d" dur="20s" fill="freeze" calcMode="spline"
+                                        values="M163,103.347826 L163,150.652174; M163,103.347826 L163,150.652174; M163,103.347826 L163,175.652174; M163,103.347826 L163,175.652174; M163,103.347826 L163,150.652174; M163,103.347826 L163,150.652174"
+                                        keySplines="0.2 0.5 0.2 1; 0.2 0.5 0.2 1; 0.2 0.5 0.2 1; 0.2 0.5 0.2 1; 0.2 0.5 0.2 1"
+                                        keyTimes="0; 0.4; 0.5; 0.7; 0.8; 1"
+                                        />
+                                </path>
+                                <g id="Handle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSLayerGroup" transform="translate(82.000000, 168.000000)" stroke-linecap="round">
+                                    <path d="M10.3533333,22.5 L63,22.5" id="Line-7" stroke="#74899F" stroke-width="3" stroke-dasharray="20,10,20,10" sketch:type="MSShapeGroup"></path>
+                                    <path d="M0,39.5 L65,39.5" id="Line-8" stroke="#C9D6E2" stroke-width="3" stroke-dasharray="60,10,32,20" sketch:type="MSShapeGroup"></path>
+                                    <path d="M81,0.346590909 L81,60.6573914" id="Line-2" stroke="#74899E" stroke-width="10" sketch:type="MSShapeGroup"></path>
+
+                                    <!-- animate the scrollbar handle going down -->
+                                    <animateTransform repeatCount="indefinite" attributeName="transform" type="translate" dur="20s" fill="freeze" calcMode="spline"
+                                        values="82 168; 82 168; 82 193; 82 193; 82 168; 82 168"
+                                        keySplines="0.2 0.5 0.2 1; 0.2 0.5 0.2 1; 0.2 0.5 0.2 1; 0.2 0.5 0.2 1; 0.2 0.5 0.2 1"
+                                        keyTimes="0; 0.4; 0.5; 0.7; 0.8; 1"
+                                        />
+                                </g>
+                                <path d="M163,247.65179 L163,402.650224" id="Bottom" stroke="#C7D4E1" stroke-width="2" stroke-linecap="round" fill="none" sketch:type="MSShapeGroup">
+
+                                    <!-- animate the bottom line of the scrollbar going down -->
+                                    <animate repeatCount="indefinite" attributeName="d" dur="20s" fill="freeze" calcMode="spline"
+                                        values="M163,247.65179 L163,402.650224; M163,247.65179 L163,402.650224; M163,272.65179 L163,402.650224; M163,272.65179 L163,402.650224; M163,247.65179 L163,402.650224; M163,247.65179 L163,402.650224"
+                                        keySplines="0.2 0.5 0.2 1; 0.2 0.5 0.2 1; 0.2 0.5 0.2 1; 0.2 0.5 0.2 1; 0.2 0.5 0.2 1"
+                                        keyTimes="0; 0.4; 0.5; 0.7; 0.8; 1"
+                                        />
+                                </path>
+
+                                <!-- animate the discussion sidebar appearing and disappearing -->
+                                <animateTransform repeatCount="indefinite" attributeName="transform" type="translate" dur="20s" fill="freeze" calcMode="spline"
+                                    values="114 100; 114 100; 14 100; 14 100; 114 100"
+                                    keySplines="0.2 0.5 0.2 1; 0.2 0.5 0.2 1; 0.2 0.5 0.2 1; 0.2 0.5 0.2 1"
+                                    keyTimes="0; 0.25; 0.3; 0.95; 1"
+                                    />
+                                <animate repeatCount="indefinite" attributeType="CSS" attributeName="opacity" dur="20s" fill="freeze"
+                                    values="0; 0; 1; 1; 0; 0"
+                                    keyTimes="0; 0.25; 0.27; 0.95; 0.97; 1" />
+
+                            </g>
+                        </g>
+                    </g>
+                    <mask id="mask-4" sketch:name="Content Area Mask" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Content-Area-Mask" sketch:type="MSShapeGroup" xlink:href="#path-3"></use>
+                    <g id="Discussions-Full" mask="url(#mask-4)" sketch:type="MSShapeGroup">
+                        <g transform="translate(228.000000, 57.000000)">
+                            <rect id="Highlight" stroke="none" fill="#DEE6ED" fill-rule="evenodd" x="0" y="117" width="661" height="39" opacity="0">
+
+                                <!-- animate the discussion row being highlighted -->
+                                <animate repeatCount="indefinite" attributeType="CSS" attributeName="opacity" dur="20s" fill="freeze"
+                                values="0; 0; 1; 0; 1; 0; 1; 0"
+                                keyTimes="0; 0.215; 0.218; 0.221; 0.224; 0.227; 0.25; 1" />
+                            </rect>
+                            <path d="M276.342942,5 L391.648485,5" id="Line-13" stroke="#74899E" stroke-width="10" stroke-linecap="round" stroke-dasharray="30,20,120,120" fill="none"></path>
+                            <path d="M43.3520408,52.5 L181,52.5" id="Line-15" stroke="#74899F" stroke-width="3" stroke-linecap="round" stroke-dasharray="50,12,40,12" fill="none"></path>
+                            <path d="M500.363636,52.5 L539.333851,52.5" id="Line-16" stroke="#C7D4E1" stroke-width="3" stroke-linecap="round" fill="none"></path>
+                            <circle id="Oval-7" stroke="none" fill="#F4EB7C" fill-rule="evenodd" cx="476" cy="52" r="9"></circle>
+                            <path d="M0.350849257,31 L660.658487,31" id="Line" stroke="#DEE6ED" stroke-width="2" stroke-linecap="round" fill="none"></path>
+                            <path d="M0.350849257,72 L660.658487,72" id="Line-14" stroke="#DEE6ED" stroke-width="2" stroke-linecap="round" fill="none"></path>
+                            <path d="M43.3522013,96.5 L266.305615,96.5" id="Line-19" stroke="#74899F" stroke-width="3" stroke-linecap="round" stroke-dasharray="80,12,60,12" fill="none"></path>
+                            <path d="M500.355263,96.5 L527,96.5" id="Line-18" stroke="#C7D4E1" stroke-width="3" stroke-linecap="round" fill="none"></path>
+                            <circle id="Oval-8" stroke="none" fill="#BDEC89" fill-rule="evenodd" cx="476" cy="95" r="9"></circle>
+                            <path d="M0.350849257,116 L660.658487,116" id="Line-17" stroke="#DEE6ED" stroke-width="2" stroke-linecap="round" fill="none"></path>
+                            <path d="M43.3871595,137.5 L242,137.5" id="Line-22" stroke="#74899F" stroke-width="3" stroke-linecap="round" stroke-dasharray="30,12,120,12" fill="none"></path>
+                            <path d="M500.363636,137.5 L539.333851,137.5" id="Line-21" stroke="#C7D4E1" stroke-width="3" stroke-linecap="round" fill="none"></path>
+                            <circle id="Oval-9" stroke="none" fill="#F4D39E" fill-rule="evenodd" cx="476" cy="137" r="9"></circle>
+                            <path d="M0.350849257,157 L660.658487,157" id="Line-20" stroke="#DEE6ED" stroke-width="2" stroke-linecap="round" fill="none"></path>
+                            <path d="M43.35125,180.5 L324,180.5" id="Line-31" stroke="#74899F" stroke-width="3" stroke-linecap="round" stroke-dasharray="50,12,40,12" fill="none"></path>
+                            <path d="M500.344262,180.5 L542,180.5" id="Line-30" stroke="#C7D4E1" stroke-width="3" stroke-linecap="round" fill="none"></path>
+                            <circle id="Oval-12" stroke="none" fill="#EE9CA6" fill-rule="evenodd" cx="476" cy="178" r="9"></circle>
+                            <path d="M0.350849257,199 L660.658487,199" id="Line-29" stroke="#DEE6ED" stroke-width="2" stroke-linecap="round" fill="none"></path>
+                            <path d="M43.3503521,221.5 L242,221.5" id="Line-28" stroke="#74899F" stroke-width="3" stroke-linecap="round" stroke-dasharray="80,12,60,12" fill="none"></path>
+                            <path d="M500.355556,221.5 L532,221.5" id="Line-27" stroke="#C7D4E1" stroke-width="3" stroke-linecap="round" fill="none"></path>
+                            <circle id="Oval-11" stroke="none" fill="#DD99EE" fill-rule="evenodd" cx="476" cy="222" r="9"></circle>
+                            <path d="M0.350849257,242 L660.658487,242" id="Line-26" stroke="#DEE6ED" stroke-width="2" stroke-linecap="round" fill="none"></path>
+                            <path d="M43.3946977,263.5 L176.407821,263.5" id="Line-25" stroke="#74899F" stroke-width="3" stroke-linecap="round" stroke-dasharray="30,12,120,12" fill="none"></path>
+                            <path d="M500.363636,263.5 L539.333851,263.5" id="Line-24" stroke="#C7D4E1" stroke-width="3" stroke-linecap="round" fill="none"></path>
+                            <circle id="Oval-10" stroke="none" fill="#A4C8F2" fill-rule="evenodd" cx="476" cy="263" r="9"></circle>
+                            <path d="M0.350849257,283 L660.658487,283" id="Line-23" stroke="#DEE6ED" stroke-width="2" stroke-linecap="round" fill="none"></path>
+                            <path d="M43.3520408,307.5 L181,307.5" id="Line-49" stroke="#74899F" stroke-width="3" stroke-linecap="round" stroke-dasharray="50,12,40,12" fill="none"></path>
+                            <path d="M500.363636,307.5 L539.333851,307.5" id="Line-48" stroke="#C7D4E1" stroke-width="3" stroke-linecap="round" fill="none"></path>
+                            <circle id="Oval-18" stroke="none" fill="#BDEC89" fill-rule="evenodd" cx="476" cy="305" r="9"></circle>
+                            <path d="M0.350849257,325 L660.658487,325" id="Line-47" stroke="#DEE6ED" stroke-width="2" stroke-linecap="round" fill="none"></path>
+                            <path d="M43.3522013,348.5 L266.305615,348.5" id="Line-46" stroke="#74899F" stroke-width="3" stroke-linecap="round" stroke-dasharray="80,12,60,12" fill="none"></path>
+                            <path d="M500.355263,348.5 L527,348.5" id="Line-45" stroke="#C7D4E1" stroke-width="3" stroke-linecap="round" fill="none"></path>
+                            <circle id="Oval-17" stroke="none" fill="#EE9CA6" fill-rule="evenodd" cx="476" cy="348" r="9"></circle>
+                            <path d="M0.350849257,368 L660.658487,368" id="Line-44" stroke="#DEE6ED" stroke-width="2" stroke-linecap="round" fill="none"></path>
+                            <path d="M43.3871595,390.5 L242,390.5" id="Line-43" stroke="#74899F" stroke-width="3" stroke-linecap="round" stroke-dasharray="30,12,120,12" fill="none"></path>
+                            <path d="M500.363636,390.5 L539.333851,390.5" id="Line-42" stroke="#C7D4E1" stroke-width="3" stroke-linecap="round" fill="none"></path>
+                            <circle id="Oval-16" stroke="none" fill="#F4D39E" fill-rule="evenodd" cx="476" cy="389" r="9"></circle>
+                            <path d="M0.350849257,409 L660.658487,409" id="Line-41" stroke="#DEE6ED" stroke-width="2" stroke-linecap="round" fill="none"></path>
+                            <path d="M43.35125,433.5 L324,433.5" id="Line-40" stroke="#74899F" stroke-width="3" stroke-linecap="round" stroke-dasharray="50,12,40,12" fill="none"></path>
+                            <path d="M500.344262,433.5 L542,433.5" id="Line-39" stroke="#C7D4E1" stroke-width="3.32103321" stroke-linecap="round" fill="none"></path>
+                            <circle id="Oval-15" stroke="none" fill="#F4EB7C" fill-rule="evenodd" cx="476" cy="431" r="9"></circle>
+                            <path d="M0.350849257,451 L660.658487,451" id="Line-38" stroke="#DEE6ED" stroke-width="2" stroke-linecap="round" fill="none"></path>
+                            <path d="M43.3503521,474.5 L242,474.5" id="Line-37" stroke="#74899F" stroke-width="3" stroke-linecap="round" stroke-dasharray="80,12,60,12" fill="none"></path>
+                            <path d="M500.355556,474.5 L532,474.5" id="Line-36" stroke="#C7D4E1" stroke-width="3.32103321" stroke-linecap="round" fill="none"></path>
+                            <circle id="Oval-14" stroke="none" fill="#BDEC89" fill-rule="evenodd" cx="476" cy="474" r="9"></circle>
+                            <path d="M0.350849257,494 L660.658487,494" id="Line-35" stroke="#DEE6ED" stroke-width="2" stroke-linecap="round" fill="none"></path>
+                            <path d="M43.3550296,516.5 L163,516.5" id="Line-34" stroke="#74899F" stroke-width="3" stroke-linecap="round" stroke-dasharray="30,15,120,15" fill="none"></path>
+                            <path d="M500.363636,516 L539.333851,516" id="Line-33" stroke="#C7D4E1" stroke-width="3.20473244" stroke-linecap="round" fill="none"></path>
+                            <circle id="Oval-13" stroke="none" fill="#A4C8F2" fill-rule="evenodd" cx="476" cy="515" r="9"></circle>
+                            <path d="M0.350849257,537 L660.658487,537" id="Line-32" stroke="#DEE6ED" stroke-width="2" stroke-linecap="round" fill="none"></path>
+
+                            <!-- animate the discussion list going away and appearing -->
+                            <animateTransform repeatCount="indefinite" attributeName="transform" type="translate" dur="20s" fill="freeze" calcMode="spline"
+                                values="228 57; 228 57; 128 57; 128 57; 228 57"
+                                keySplines="0.2 0.5 0.2 1; 0.2 0.5 0.2 1; 0.2 0.5 0.2 1; 0.2 0.5 0.2 1"
+                                keyTimes="0; 0.25; 0.3; 0.95; 1"
+                                />
+                            <animate repeatCount="indefinite" attributeType="CSS" attributeName="opacity" dur="20s" fill="freeze"
+                                values="1; 1; 0; 0; 1; 1"
+                                keyTimes="0; 0.25; 0.27; 0.95; 0.97; 1" />
+                        </g>
+                    </g>
+                    <g id="Discussions-Pane" mask="url(#mask-4)" sketch:type="MSShapeGroup">
+                        <g transform="translate(-26.000000, 42.000000)">
+                            <rect id="Highlight" stroke="none" fill="#F0F4F8" fill-rule="evenodd" x="0" y="176" width="224" height="61"></rect>
+                            <path d="M55.342942,25 L170.648485,24.8333333" id="Line-13" stroke="#74899E" stroke-width="10" stroke-linecap="round" stroke-dasharray="30,20,120,120" fill="none"></path>
+                            <path d="M28.3520408,72.5 L166,72.5" id="Line-15" stroke="#74899F" stroke-width="3" stroke-linecap="round" stroke-dasharray="50,12,39,12" fill="none"></path>
+                            <circle id="Oval-7" stroke="none" fill="#F4EB7C" fill-rule="evenodd" cx="195" cy="72" r="9"></circle>
+                            <path d="M0.119957537,112 L225.883235,112" id="Line-14" stroke="#DEE6ED" stroke-width="2" stroke-linecap="round" fill="none"></path>
+                            <path d="M0.119957537,50 L225.883235,50" id="Line-15" stroke="#DEE6ED" stroke-width="2" stroke-linecap="round" fill="none"></path>
+                            <path d="M28.3507463,134.5 L168.314328,134.5" id="Line-19" stroke="#74899F" stroke-width="3" stroke-linecap="round" stroke-dasharray="80,12,60,12" fill="none"></path>
+                            <circle id="Oval-8" stroke="none" fill="#BDEC89" fill-rule="evenodd" cx="195" cy="134" r="9"></circle>
+                            <path d="M0.119957537,175 L225.883235,175" id="Line-17" stroke="#DEE6ED" stroke-width="2" stroke-linecap="round" fill="none"></path>
+                            <path d="M28.3507463,199.5 L168.300263,199.5" id="Line-22" stroke="#74899F" stroke-width="3" stroke-linecap="round" stroke-dasharray="30,12,120,12" fill="none"></path>
+                            <path d="M28.3541667,92.5 L112.303621,92.5" id="Line-23" stroke="#74899F" stroke-width="3" stroke-linecap="round" stroke-dasharray="30,12,120,12" fill="none"></path>
+                            <circle id="Oval-9" stroke="none" fill="#F4D39E" fill-rule="evenodd" cx="195" cy="198" r="9"></circle>
+                            <path d="M0.119957537,238 L225.883235,238" id="Line-20" stroke="#DEE6ED" stroke-width="2" stroke-linecap="round" fill="none"></path>
+                            <path d="M28.3511236,155.5 L152.395188,155.5" id="Line-32" stroke="#74899F" stroke-width="3" stroke-linecap="round" stroke-dasharray="50,12,39,12" fill="none"></path>
+                            <circle id="Oval-12" stroke="none" fill="#EE9CA6" fill-rule="evenodd" cx="195" cy="260" r="9"></circle>
+                            <path d="M0.119957537,302 L225.883235,302" id="Line-29" stroke="#DEE6ED" stroke-width="2" stroke-linecap="round" fill="none"></path>
+                            <path d="M28.3475,325.5 L167,325.5" id="Line-28" stroke="#74899F" stroke-width="3" stroke-linecap="round" stroke-dasharray="80,12,60,12" fill="none"></path>
+                            <path d="M28.3507463,260.5 L168.474212,260.5" id="Line-31" stroke="#74899F" stroke-width="3" stroke-linecap="round" stroke-dasharray="50,12,39,12" fill="none"></path>
+                            <path d="M28.34,219.5 L78.39396,219.5" id="Line-29" stroke="#74899F" stroke-width="3" stroke-linecap="round" stroke-dasharray="50,12,39,12" fill="none"></path>
+                            <circle id="Oval-11" stroke="none" fill="#DD99EE" fill-rule="evenodd" cx="195" cy="323" r="9"></circle>
+                            <path d="M0.119957537,365 L225.883235,365" id="Line-26" stroke="#DEE6ED" stroke-width="2" stroke-linecap="round" fill="none"></path>
+                            <path d="M28.3550296,386.5 L148,386.5" id="Line-25" stroke="#74899F" stroke-width="3" stroke-linecap="round" stroke-dasharray="30,12,120,12" fill="none"></path>
+                            <path d="M28.3495935,282.5 L113.326706,282.5" id="Line-26" stroke="#74899F" stroke-width="3" stroke-linecap="round" stroke-dasharray="30,12,120,12" fill="none"></path>
+                            <path d="M28.3495935,471.5 L113.326706,471.5" id="Line-27" stroke="#74899F" stroke-width="3" stroke-linecap="round" stroke-dasharray="30,12,120,12" fill="none"></path>
+                            <circle id="Oval-10" stroke="none" fill="#A4C8F2" fill-rule="evenodd" cx="195" cy="386" r="9"></circle>
+                            <path d="M0.119957537,428 L225.883235,428" id="Line-23" stroke="#DEE6ED" stroke-width="2" stroke-linecap="round" fill="none"></path>
+                            <path d="M28.3520408,449.5 L166,449.5" id="Line-49" stroke="#74899F" stroke-width="3" stroke-linecap="round" stroke-dasharray="50,12,39,12" fill="none"></path>
+                            <path d="M28.3535354,345.5 L97.3255554,345.5" id="Line-50" stroke="#74899F" stroke-width="3" stroke-linecap="round" stroke-dasharray="50,12,39,12" fill="none"></path>
+                            <path d="M28.35,532.5 L55.33634,532.5" id="Line-51" stroke="#74899F" stroke-width="3" stroke-linecap="round" stroke-dasharray="50,12,39,12" fill="none"></path>
+                            <circle id="Oval-18" stroke="none" fill="#BDEC89" fill-rule="evenodd" cx="195" cy="449" r="9"></circle>
+                            <path d="M0.119957537,489 L225.883235,489" id="Line-47" stroke="#DEE6ED" stroke-width="2" stroke-linecap="round" fill="none"></path>
+                            <path d="M28.3520408,512.5 L165.297723,512.5" id="Line-46" stroke="#74899F" stroke-width="3" stroke-linecap="round" stroke-dasharray="80,12,60,12" fill="none"></path>
+                            <path d="M28.3502538,408.5 L165.306654,408.5" id="Line-47" stroke="#74899F" stroke-width="3" stroke-linecap="round" stroke-dasharray="80,12,60,12" fill="none"></path>
+                            <circle id="Oval-17" stroke="none" fill="#EE9CA6" fill-rule="evenodd" cx="195" cy="512" r="9"></circle>
+                            <path d="M0.119957537,554 L225.883235,554" id="Line-44" stroke="#DEE6ED" stroke-width="2" stroke-linecap="round" fill="none"></path>
+                            <rect id="Border" stroke="none" fill="#DEE6ED" fill-rule="evenodd" x="224" y="0" width="7" height="571"></rect>
+
+                            <!-- animate the discussion pane appearing and disappearing -->
+                            <animateTransform repeatCount="indefinite" attributeName="transform" type="translate" dur="20s" fill="freeze" calcMode="spline"
+                                values="-26 42; -26 42; 194 42; 194 42; -26 42; -26 42"
+                                keySplines="0.2 0.5 0.2 1; 0.2 0.5 0.2 1; 0.2 0.5 0.2 1; 0.2 0.5 0.2 1; 0.2 0.5 0.2 1"
+                                keyTimes="0; 0.55; 0.6; 0.85; 0.9; 1"
+                                />
+                        </g>
+                    </g>
+                    <g id="Discussion" mask="url(#mask-4)">
+                        <g transform="translate(328.000000, 60.000000)" opacity="0">
+                            <g id="Post-5" stroke="none" stroke-width="1" fill-rule="evenodd" sketch:type="MSLayerGroup" transform="translate(0.000000, 690.000000)">
+                                <path d="M416.636978,3.5 L437.407324,3.5" id="Time" stroke="#C7D4E1" stroke-width="3" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                                <ellipse id="Avatar" fill="#DC99ED" sketch:type="MSShapeGroup" cx="16" cy="15.5" rx="16" ry="15.5"></ellipse>
+                                <path d="M48.3028169,3.5 L90.4117906,3.5" id="Name" stroke="#74899F" stroke-width="3" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                                <rect id="Post" opacity="0.70079291" fill="#F5F5F5" sketch:type="MSShapeGroup" x="46" y="20" width="392" height="141" rx="9.61419731"></rect>
+                                <path d="M0.309659091,182 L435.389603,182" id="Ruler" stroke="#DEE6ED" stroke-width="2" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                            </g>
+                            <g id="Post-4" stroke="none" stroke-width="1" fill-rule="evenodd" sketch:type="MSLayerGroup" transform="translate(0.000000, 565.000000)">
+                                <path d="M416.636978,3.5 L437.407324,3.5" id="Time" stroke="#C7D4E1" stroke-width="3" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                                <ellipse id="Avatar" fill="#BDEC89" sketch:type="MSShapeGroup" cx="16" cy="15.5" rx="16" ry="15.5"></ellipse>
+                                <rect id="Post-2" opacity="0.70079291" fill="#F5F5F5" sketch:type="MSShapeGroup" x="46" y="21" width="392" height="66" rx="9.61419731"></rect>
+                                <path d="M48.3153153,3.5 L118,3.5" id="Name" stroke="#74899F" stroke-width="3" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                                <path d="M0.309659091,104 L435.389603,104" id="Ruler" stroke="#DEE6ED" stroke-width="2" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                            </g>
+                            <g id="Post-3" stroke="none" stroke-width="1" fill-rule="evenodd" sketch:type="MSLayerGroup" transform="translate(0.000000, 380.000000)">
+                                <path d="M416.636978,3.5 L437.407324,3.5" id="Time" stroke="#C7D4E1" stroke-width="3" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                                <path d="M0.309659091,163 L435.389603,163" id="Ruler-2" stroke="#DEE6ED" stroke-width="2" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                                <circle id="Avatar" fill="#F4EB7C" sketch:type="MSShapeGroup" cx="16" cy="16" r="16"></circle>
+                                <rect opacity="0.70079291" fill="#F5F5F5" sketch:type="MSShapeGroup" x="46" y="25" width="392" height="121" rx="9.61419731"></rect>
+                                <path d="M48.3125,3.5 L78,3.5" id="Name" stroke="#74899F" stroke-width="3" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                            </g>
+                            <g id="Post-2" stroke="none" stroke-width="1" fill-rule="evenodd" sketch:type="MSLayerGroup" transform="translate(0.000000, 254.000000)">
+                                <path d="M416.636978,3.5 L437.407324,3.5" id="Time" stroke="#C7D4E1" stroke-width="3" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                                <ellipse id="Avatar" fill="#A4C8F2" sketch:type="MSShapeGroup" cx="16" cy="15.5" rx="16" ry="15.5"></ellipse>
+                                <rect opacity="0.70079291" fill="#F5F5F5" sketch:type="MSShapeGroup" x="46" y="21" width="392" height="66" rx="9.61419731"></rect>
+                                <path d="M48.3153153,3.5 L118,3.5" id="Name" stroke="#74899F" stroke-width="3" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                                <path d="M0.309659091,104 L435.389603,104" id="Ruler" stroke="#DEE6ED" stroke-width="2" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                            </g>
+                            <g id="Post-1" stroke="none" stroke-width="1" fill-rule="evenodd" sketch:type="MSLayerGroup" transform="translate(0.000000, 50.000000)">
+                                <path d="M416.636978,3.5 L437.407324,3.5" id="Time" stroke="#C7D4E1" stroke-width="3" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                                <ellipse id="Avatar" fill="#F4D39E" sketch:type="MSShapeGroup" cx="16" cy="15.5" rx="16" ry="15.5"></ellipse>
+                                <path d="M48.3028169,3.5 L90.4117906,3.5" id="Name" stroke="#74899F" stroke-width="3" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                                <rect id="Post" opacity="0.70079291" fill="#F5F5F5" sketch:type="MSShapeGroup" x="46" y="20" width="392" height="141" rx="9.61419731"></rect>
+                                <path d="M0.309659091,182 L435.389603,182" id="Ruler" stroke="#DEE6ED" stroke-width="2" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                            </g>
+                            <path d="M0.309659091,29 L435.389603,29" id="Ruler" stroke="#DEE6ED" stroke-width="2" stroke-linecap="round" sketch:type="MSShapeGroup"></path>
+                            <path d="M144.298911,5 L287.714561,5" id="Title" stroke="#74899F" stroke-width="10" stroke-linecap="round" stroke-dasharray="50,20,39,20" sketch:type="MSShapeGroup"></path>
+
+                            <!-- animate the discussion appearing, scrolling, and making way for the pane -->
+                            <animateTransform repeatCount="indefinite" attributeName="transform" type="translate" dur="20s" fill="freeze" calcMode="spline"
+                                values="328 60; 328 60; 228 60; 228 60; 228 -140; 228 -140; 448 -140; 448 -140; 448 60; 448 60; 228 60; 228 60; 328 60"
+                                keySplines="0.2 0.5 0.2 1; 0.2 0.5 0.2 1; 0.2 0.5 0.2 1; 0.2 0.5 0.2 1; 0.2 0.5 0.2 1; 0.2 0.5 0.2 1; 0.2 0.5 0.2 1; 0.2 0.5 0.2 1; 0.2 0.5 0.2 1; 0.2 0.5 0.2 1; 0.2 0.5 0.2 1; 0.2 0.5 0.2 1"
+                                keyTimes="0; 0.25; 0.3; 0.4; 0.5; 0.55; 0.6; 0.7; 0.8; 0.85; 0.9; 0.95; 1"
+                                />
+                            <animate repeatCount="indefinite" attributeType="CSS" attributeName="opacity" dur="20s" fill="freeze"
+                                values="0; 0; 1; 1; 0; 0"
+                                keyTimes="0; 0.25; 0.27; 0.95; 0.97; 1" />
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
