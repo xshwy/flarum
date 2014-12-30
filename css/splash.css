@@ -1,6 +1,6 @@
 html, body {
   height: 100%;
-  overflow: hidden;
+  /*overflow: hidden;*/
 }
 body {
   background: #FE734C;
@@ -44,14 +44,14 @@ p a {
   color: #fff;
 }
 #action {
-  margin-top: -25px;
+  margin-top: -30px;
   animation-delay: 1.6s;
   -webkit-animation-delay: 1.6s;
   -moz-animation-delay: 1.6s;
   -o-animation-delay: 1.6s;
 }
 .kickstarter {
-  margin: auto 5px;
+  margin: 5px;
   background: #fff;
   color: #65AF10;
   display: inline-block;
@@ -129,6 +129,9 @@ p a {
   }
   h2 {
     font-size: 30px;
+  }
+  #action {
+    margin-top: -70px;
   }
   #demo {
     padding-top: 40px;
